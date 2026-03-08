@@ -38,4 +38,7 @@
 ## 예제 동영상
 
 ```
-[![Watch the video](https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/qw5jkUefCw8)
+
+
+https://github.com/user-attachments/assets/a97e9dcc-13f7-44a5-aee0-11c8dd5833cb
+
