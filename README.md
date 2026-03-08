@@ -38,4 +38,4 @@
 ## 예제 동영상
 
 ```
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/qw5jkUefCw8)
+[![Watch the video](https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/qw5jkUefCw8)
